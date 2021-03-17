@@ -14,7 +14,7 @@ As the COVID-19 epidemic continues to spread around the world, the responses of 
 
 <img src="resources/animation.gif">
 
-<img src="resources/choro2.gif">
+<img src="resources/choropleth_plotly.gif">
 
 ## Tools and Libraries
 
